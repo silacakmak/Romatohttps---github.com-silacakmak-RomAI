@@ -70,6 +70,16 @@ python demo_page.py
 ```
 Ardından `demo_sonuclari.html` dosyasını tarayıcıda açın.
 
+### 2 HASTA İÇİN TEST SONUÇLARI
+<img width="1144" height="416" alt="image" src="https://github.com/user-attachments/assets/10ec645d-88a6-4c6a-bcda-2ae64480c97b" />
+<img width="1004" height="869" alt="image" src="https://github.com/user-attachments/assets/8cde968b-105e-4520-aedb-3a6893fc1475" />
+<img width="1000" height="864" alt="image" src="https://github.com/user-attachments/assets/db42a069-c3f8-4642-97be-cd263ba137f9" />
+<img width="1020" height="271" alt="image" src="https://github.com/user-attachments/assets/b44f5d08-e074-4002-ae22-070ffe380098" />
+
+
+
+
+
 ## Veri Kaynakları
 
 Projede kullanılan veriler GEO (Gene Expression Omnibus) veritabanından alınmıştır:
